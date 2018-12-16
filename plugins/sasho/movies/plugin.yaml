@@ -1,0 +1,11 @@
+plugin:
+    name: 'sasho.movies::lang.plugin.name'
+    description: 'sasho.movies::lang.plugin.description'
+    author: sasho
+    icon: oc-icon-video-camera
+    homepage: ''
+navigation:
+    main-menu-item:
+        label: Movies
+        url: sasho/movies/movies
+        icon: icon-video-camera
